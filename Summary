@@ -1,0 +1,24 @@
+Executive Summary
+
+The Case 
+ABC Auctions, a wholesale auto auction company employed 20,000 people working in locations around the world. With 10,000 full-time staff, they managed over 75 auctions across North America and handling a huge number of vehicles. In order to promote consistency in practices across the auctions, the corporate HR manager has launched a significant endeavor, researching into current HR procedures and auction results. The information about auction performance, turnover, and safety were gathered through anonymous surveys and involved all auction staff. The surveys were completed by employees during the routine all hands meetings. Response rates and individual survey results were combined with information about auction HR procedures and performance to provide single ratings on a number of verified survey scale metrics.
+
+Objective 
+The goal is to conduct an analysis to assess if HR practices was associated to auction performance. Our dataset includes employee behavior, attitudes, and performance to uncover results. An initial strategy map of the theoretical connections between attitudes, behavior, and performance helps us make necessary recommendations intended to positively affect the HR department. 
+
+
+The Analysis 
+Descriptive statistics was used to understand the dataset and identify necessary outliers that existed. Basic mathematical calculations prepped our data for our advanced regression techniques to identify the effect of the operating variables. 
+
+
+Results 
+From the analysis led to interpreting that for every 3% of fulltime employees terminated, there’s a reduction in earnings by about $1.25 (approx.). Terminations can happen due to various reasons. One such reason obtained from the same model can be lot damage per car (reported significantly). It can be interpreted that the company decides to terminate those employees who tend to cause more damages to the auction vehicles or those who do not inspect cars leading to incidents that puts safety at risk. These results have a significant effect on the performance of the auction. A damaged car may be auctioned for a lesser rate leading to a decrease in profits earned. Dealer auctions may lead to a much bigger dent on profits earned during auctions. 
+
+A correlation analysis between HR practices and employee attitudes was done to uncover the relation between HR practices and employee attitudes. All of the independent variables are positively correlated to the dependent variable that is HR practices. All the correlation results obtained were positive correlations. Sharing information, introducing personal development programs, receiving rewards for their performance are all the little things that make assure employee’s that a company cares about them and would in turn result in employees giving their best performance thereby bringing in greater profits. Therefore, we can deduce that improving HR practices leads to a better work environment for employees there by increasing auction’s performances. 
+
+Recommendations 
+•	The data presented was good but having employee behaviors summarized through time periods would’ve helped analyze the company’s performance each year there by helping us make accurate recommendations for each year.  Quarterly profits can be a solution to this or adding a column containing years could be another solution
+•	ABC needs to focus on keeping their employees happy instead of retention programs. A happy employee commits and delivers greater performance which increases auction performance. 
+•	Costs of damages are given to us, but having cars categorized into damaged or undamaged, selling price can be a significant to help compare profits of the company.  
+•	From our correlation results, the company can introduce performance-based rewards, training programs for individual development, monthly/annual raise programs for employees, etc. 
+
